@@ -20,3 +20,11 @@ Use Cases and examples based "loosely" on the national conventions: https://en.w
 
 ### North America, 1-800 & 1-900 series numbers
 1 (800) 123-4567
+
+International Country Codes: https://en.wikipedia.org/wiki/List_of_country_calling_codes
+
+### UK +44 Country Code
++44 123-456-7890
+
+### Peru +51 Country Code
++51 123-456-789
