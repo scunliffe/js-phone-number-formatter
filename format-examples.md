@@ -28,3 +28,6 @@ International Country Codes: https://en.wikipedia.org/wiki/List_of_country_calli
 
 ### Peru +51 Country Code
 +51 123-456-789
+
+### Iceland +354 Country Code
++354 123-4567
