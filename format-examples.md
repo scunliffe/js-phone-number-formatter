@@ -15,8 +15,8 @@ The generally accepted format is:
 
 Use Cases and examples based "loosely" on the national conventions: https://en.wikipedia.org/wiki/National_conventions_for_writing_telephone_numbers
 
-###North America, 10 digits
+### North America, 10 digits
 (123) 123-4567
 
-###North America, 1-800 & 1-900 series numbers
+### North America, 1-800 & 1-900 series numbers
 1 (800) 123-4567
