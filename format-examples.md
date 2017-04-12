@@ -15,6 +15,8 @@ The generally accepted format is:
 
 Use Cases and examples based "loosely" on the national conventions: https://en.wikipedia.org/wiki/National_conventions_for_writing_telephone_numbers
 
+Note that even within a given geographic region there are several variations: http://www.area-codes.org.uk/formatting-city-guide.php
+
 ### North America, 10 digits
 (123) 123-4567
 
